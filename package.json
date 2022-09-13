@@ -9,13 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.4",
     "@iconscout/react-unicons": "^1.1.6",
+    "@mantine/core": "^5.3.0",
+    "@mantine/hooks": "^5.3.0",
     "@sanity/cli": "^2.32.0",
     "@sanity/client": "^3.4.1",
     "@sanity/image-url": "^1.0.1",
+    "@stripe/stripe-js": "^1.36.0",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hot-toast": "^2.3.0",
+    "stripe": "^10.8.0",
+    "zustand": "^4.1.1"
   },
   "devDependencies": {
     "eslint": "8.23.0",

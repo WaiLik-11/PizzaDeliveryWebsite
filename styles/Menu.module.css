@@ -48,3 +48,11 @@
     overflow: hidden;
     border-radius: 2rem;
 }
+
+.ImageWrapper>span>img:hover {
+    transform: scale(1.1);
+}
+
+.pizza:hover {
+    cursor: pointer;
+}
